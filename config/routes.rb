@@ -1,4 +1,7 @@
 Boost::Application.routes.draw do
+  resources :todays
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
